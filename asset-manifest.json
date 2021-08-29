@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.1b4c543a.chunk.css",
+    "main.js": "/memory-card/static/js/main.6fe9f99c.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.6fe9f99c.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.324b4811.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.324b4811.js.map",
+    "static/js/2.cfea7464.chunk.js": "/memory-card/static/js/2.cfea7464.chunk.js",
+    "static/js/2.cfea7464.chunk.js.map": "/memory-card/static/js/2.cfea7464.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.1b4c543a.chunk.css.map": "/memory-card/static/css/main.1b4c543a.chunk.css.map",
+    "static/js/2.cfea7464.chunk.js.LICENSE.txt": "/memory-card/static/js/2.cfea7464.chunk.js.LICENSE.txt",
+    "static/media/giglipop.e0b6366b.png": "/memory-card/static/media/giglipop.e0b6366b.png",
+    "static/media/onix.22737b7c.webp": "/memory-card/static/media/onix.22737b7c.webp",
+    "static/media/pidgeotto.dd613c6e.png": "/memory-card/static/media/pidgeotto.dd613c6e.png",
+    "static/media/pikachu.48c332a5.jpg": "/memory-card/static/media/pikachu.48c332a5.jpg",
+    "static/media/psyduck.e2a2a563.webp": "/memory-card/static/media/psyduck.e2a2a563.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324b4811.js",
+    "static/js/2.cfea7464.chunk.js",
+    "static/css/main.1b4c543a.chunk.css",
+    "static/js/main.6fe9f99c.chunk.js"
+  ]
+}
